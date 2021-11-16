@@ -1,0 +1,51 @@
+
+body{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: white;
+    padding: 25px;
+    color: black;
+    font-size: 25px;
+}
+nav{
+    display: inline;
+    list-style: none;
+}
+    
+ul{
+    margin: 0;
+    padding: 0;
+}
+a{
+    font-size: small;
+    text-decoration: none;
+    padding: 0;
+    margin: 0;
+    color: black;
+    font-style: oblique;
+}
+
+nav{
+    display: inline;
+}
+b{
+    display: inline;
+}
+div{
+    display: inline;
+    margin: 0 1%;
+}
+
+
+
+div :hover{
+    color: blue;
+
+}
+
+.gru{
+    opacity: 0.5;
+    font-style: inherit;
+}
